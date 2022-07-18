@@ -1,6 +1,8 @@
 body, html {
+	margin-top: 1em;
+	margin-left: 1em;
 	font-family: "roboto", sans-serif;
-	font-weight: 2em;
+	font-size: auto;
 }
 
 html {
@@ -15,10 +17,15 @@ background-size: cover;
 	display: grid;
 }
 
-.wrapper {
+.wrapper, .div-list {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	padding-bottom: 5px;
+}
+
+.wrapper {
+	gap: 10px;
 }
 
 
