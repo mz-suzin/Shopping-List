@@ -1,4 +1,7 @@
 # Shopping-List
+
+https://mz-suzin.github.io/Shopping-List/
+
 That very first and basic (right now not so basic) webpage with some DOM manipulations and stuff that seem complicated but are not.
 
 V1 - add items to list using 'add' button or pressing the keyboard key 'enter'
